@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerExample</string>
+    <string name="title">Title 1</string>
+    <string name="description">A Champions deveria se pronunciar, \n
+        alterando o horário do jogo entre Barcelona x Liverpool para que todos possam acompanhar o maior campeonato do mundo,
+        conhecido como brasileirão</string>
+</resources>
